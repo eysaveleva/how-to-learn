@@ -263,6 +263,7 @@
   top: 0;
   background-repeat: no-repeat;
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: cover;
 }
 .footer {
   justify-content: center;
