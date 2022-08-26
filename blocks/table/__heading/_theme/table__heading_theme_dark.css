@@ -1,0 +1,10 @@
+.table-heading_theme_dark {
+  margin: 0;
+  left: 0;
+  top: 0;
+  text-align: left;
+  font-size: 24px;
+  line-height: 1.15;
+  font-weight: 600;
+  z-index: 1;
+}

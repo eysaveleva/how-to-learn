@@ -1,0 +1,8 @@
+.logo {
+  background-repeat: no-repeat;
+  background-position: top left;
+  width: 228px;
+  height: 32px;
+  z-index: 2;
+  margin: 0;
+}
