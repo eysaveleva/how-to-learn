@@ -1,5 +1,5 @@
 .khan__book-container {
-  overflow: hidden;
-  align-items: top;
   display: flex;
+  overflow: hidden;
+  align-items: flex-start;
 }
